@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287273028842",
+    "project_id": "shoes-app-e2319",
+    "storage_bucket": "shoes-app-e2319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287273028842:android:b4425c1c1ad437c5f0db93",
+        "android_client_info": {
+          "package_name": "com.example.flutter_shoes_ui_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287273028842-ao68iebjlokd9gk0c3d57l22bs5d37n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfpA40uDJ8b2m3FyibB9-c0rDMzRHjWd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287273028842-ao68iebjlokd9gk0c3d57l22bs5d37n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

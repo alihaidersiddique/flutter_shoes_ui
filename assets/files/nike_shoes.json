@@ -1,0 +1,136 @@
+{
+    "running":[
+        {
+            "id": 1,
+            "name": "Nike ZoomX Invincible Run Flyknit",
+            "price": 180,
+            "image": "assets/images/nike-running-1.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 2,
+            "name": "Nike React Miler 2",
+            "price": 130,
+            "image": "assets/images/nike-running-2.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 3,
+            "name": "Nike Air Zoom Pegasus",
+            "price": 130,
+            "image": "assets/images/nike-running-3.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 4,
+            "name": "Nike Air Black Corn",
+            "price": 140,
+            "image": "assets/images/nike-running-4.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 5,
+            "name": "Nike React Infinity Run Flyknit 2",
+            "price": 160,
+            "image": "assets/images/nike-running-5.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 6,
+            "name": "Nike Air Zoom Terra Kiger 7",
+            "price": 140,
+            "image": "assets/images/nike-running-6.png",
+            "logo" : "assets/images/nike-logo.png"
+        }
+    ],
+
+    "basket-ball":[
+        {
+            "id": 1,
+            "name": "PG-5",
+            "price": 110,
+            "image": "assets/images/nike-basketball-1.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 2,
+            "name": "Zoom Freak 3",
+            "price": 120,
+            "image": "assets/images/nike-basketball-2.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 3,
+            "name": "KD14",
+            "price": 150,
+            "image": "assets/images/nike-basketball-3.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 4,
+            "name": "Kyrie 7",
+            "price": 130,
+            "image": "assets/images/nike-basketball-4.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 5,
+            "name": "Kyrie Low 4",
+            "price": 110,
+            "image": "assets/images/nike-basketball-5.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 6,
+            "name": "LeBron 18 Low ",
+            "price": 160,
+            "image": "assets/images/nike-basketball-6.png",
+            "logo" : "assets/images/nike-logo.png"
+        }
+    ],
+
+    "training":[
+        {
+            "id": 1,
+            "name": "Nike Metcon 7 X",
+            "price": 140,
+            "image": "assets/images/nike-training-1.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 2,
+            "name": "Nike SuperRep Go 2 ",
+            "price": 100,
+            "image": "assets/images/nike-training-2.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 3,
+            "name": "Nike Romaleos 4 SE",
+            "price": 200,
+            "image": "assets/images/nike-training-3.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 4,
+            "name": "Nike Air Zoom SuperRep 2 ",
+            "price": 120,
+            "image": "assets/images/nike-training-4.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 5,
+            "name": "Nike ZoomX SuperRep Surge ",
+            "price": 50.97,
+            "image": "assets/images/nike-training-5.png",
+            "logo" : "assets/images/nike-logo.png"
+        },
+        {
+            "id": 6,
+            "name": "Nike Free Metcon 4",
+            "price": 120,
+            "image": "assets/images/nike-training-6.png",
+            "logo" : "assets/images/nike-logo.png"
+        }
+    ]
+}
